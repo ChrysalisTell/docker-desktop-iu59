@@ -1,4 +1,4 @@
-# 
+# updated JetBrains PyCharm for PC scripts is the best JetBrains PyCharm for PC scripts with Docker-Compose-support and snippets. Safe, reliable, and optimized for maximum
 
 
 
